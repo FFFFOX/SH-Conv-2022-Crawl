@@ -3,6 +3,7 @@ from lxml import html
 import time
 import collections
 import pandas as pd
+import numpy as np
 from openpyxl import load_workbook
 from CrawlSubPage import *
 
